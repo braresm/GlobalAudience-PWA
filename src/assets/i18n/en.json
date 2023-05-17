@@ -1,0 +1,27 @@
+{
+    "app": {
+        "navbar": {
+            "name": "Tourist App",
+            "lang": {
+                "name": "Language",
+                "en": "English",
+                "ar": "Arabic"
+            }
+        },
+        "features": {
+            "destinations": {
+                "title": "Destinations",
+                "search": "Search",
+                "categories": {
+                    "nationalparks": "National Parks",
+                    "museums": "Museums",
+                    "stadiums": "Stadiums"
+                },
+                "card": {
+                    "rating": "Rating"
+                },
+                "noData": "No destination found for category"
+            }
+        }
+    }
+}

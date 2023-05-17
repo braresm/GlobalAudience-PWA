@@ -1,0 +1,27 @@
+{
+    "app": {
+        "navbar": {
+            "name": "تطبيق سياحي",
+            "lang": {
+                "name": "لغة",
+                "en": "إنجليزي",
+                "ar": "عربي"
+            }
+        },
+        "features": {
+            "destinations": {
+                "title": "الأماكن",
+                "search": "يبحث",
+                "categories": {
+                    "nationalparks": "المتنزهات الوطنية",
+                    "museums": "المتاحف",
+                    "stadiums": "الملاعب"
+                },
+                "card": {
+                    "rating": "تقييم"
+                },
+                "noData": "لم يتم العثور على وجهة للفئة"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Verdana, sans-serif;
+}
+
+.arabic-style {
+  font-family: "Noto Sans";
+}
+
+.toolbar-spacer {
+  flex: 1 1 auto;
+}
+
+.page-wrapper {
+  margin: 30px 0;
+}

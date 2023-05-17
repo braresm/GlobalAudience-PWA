@@ -1,0 +1,17 @@
+<mat-card class="mb-3">
+  <img mat-card-image [src]="destination.imageUrl" [alt]="destination.name" />
+
+  <mat-card-content>
+    <div class="destination-content">
+      <div class="name">
+        <strong>{{ destination.name }}</strong>
+      </div>
+      <div class="description">
+        {{ destination.description }}
+      </div>
+      <div class="rating">
+        {{ "app.features.destinations.card.rating" | translate }} {{ destination.rating }}
+      </div>
+    </div>
+  </mat-card-content>
+</mat-card>
